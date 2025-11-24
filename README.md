@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number:212224230139
+## Name:Latchaya priyan S
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
